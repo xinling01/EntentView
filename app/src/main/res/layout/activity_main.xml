@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.linger.ententview.MainActivity">
+
+    <com.linger.ententview.MyVideoView
+        android:id="@+id/video_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <LinearLayout
+        android:id="@+id/layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:visibility="invisible"
+        >
+        <EditText
+            android:id="@+id/et_name"
+            android:layout_marginTop="15dp"
+            android:padding="10dp"
+            android:hint="输入用户名"
+            android:textColorHint="@android:color/white"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/bg"/>
+        <EditText
+            android:id="@+id/et_password"
+            android:layout_marginTop="15dp"
+            android:padding="10dp"
+            android:hint="输入密码"
+            android:password="true"
+            android:textColorHint="@android:color/white"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/bg"/>
+        <Button
+            android:id="@+id/btn_enter"
+            android:layout_marginTop="50dp"
+            android:text="登录"
+            android:textSize="18sp"
+            android:textColor="@android:color/white"
+            android:background="@drawable/bg"
+            android:layout_width="120dp"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+
+</RelativeLayout>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\Android\mingrisoft\EntentView\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="608ee6c26dabefe005a9f17de8a31d3b58984481">
+        <dex dex="E:\Android\mingrisoft\EntentView\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_1555dfdcdae63b51aa8e6c1463562cf229c72517\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\eclipse\.android\build-cache\d43aec1d049a8f261b5d67db7857c8f84ba09e43\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="E:\Android\mingrisoft\EntentView\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_dd829e754ec6f7c0c2705004a2cd30b8413864e8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\eclipse\.android\build-cache\c8f934c9d82a95896052910029a3a8754b622c2d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="E:\Android\mingrisoft\EntentView\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_652027868cff3a4a9ef1967c164f2efaf99e8d5c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\eclipse\.android\build-cache\5a64f6a3024a9f5e31dfeb4e9622acbb42b359b9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="E:\Android\mingrisoft\EntentView\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_77bbebc81f2c3cf0c6bdb196596d74831fc4c246\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\mingrisoft\EntentView\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="E:\Android\mingrisoft\EntentView\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_9b6fd5b59d97f2180c2eb6bfbd1fdbffd4e3717a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\eclipse\.android\build-cache\7f6460df8bff6741330b1f2d8d5e9a73013907ae\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="E:\Android\mingrisoft\EntentView\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_157afedc2a7c750b5cd96cf8a01222b53d5796f9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\eclipse\.android\build-cache\d8ab9df7f7ea85acf9db8de818481fb1c86b3a3b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="E:\Android\mingrisoft\EntentView\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d6402b5da4951a6fa03fdf79b313838ec50cfc63\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\eclipse\.android\build-cache\f904c1d5f8f2d1c54cf05444e28b1adab00ca66b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="E:\Android\mingrisoft\EntentView\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fe324b22052b74bb5ad96e26a491c89b81112ca0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\eclipse\.android\build-cache\8b6d3f7fb67d0f5e5a0a49b1120355b42078867c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\Android\mingrisoft\EntentView\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ea0d6ba8ed12afd537eae03868d4f4ac9333b04a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\eclipse\.android\build-cache\4197ac2b014ea4625203b2786f0d59011f98f82f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="E:\Android\mingrisoft\EntentView\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_845c4ab55ac482a8d4d7d31adbf3f2fac56c3b0c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\eclipse\.android\build-cache\bfac656ed1e4f26272074fbf0c76a3e2bccd9ccd\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="E:\Android\mingrisoft\EntentView\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d3eef65e7b70a8b4ac888b9d191ee1b9b652650e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\eclipse\.android\build-cache\8bf517ac1bfb73ee193362d63e80e3909a3a0c9d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="E:\Android\mingrisoft\EntentView\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_048af40afc47a87047439fe890e5ac1be93a9f0d\classes.dex" />
+    </item>
+
+</items>
